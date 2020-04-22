@@ -6,7 +6,7 @@ In this article we will look at how to modify a disk image for the Raspberry Pi 
 
 Once you get started modifying disk images, as you add more Pis to your lab you can just write the image to an SD card, drop it into the Pi, and go!
 
-![Multiple Raspberry Pi computers, a switch and a power bank](img/feature.)
+![Multiple Raspberry Pi computers, a switch and a power bank](img/feature.jpg)
 
 ## Decompressing and mounting the image
 
