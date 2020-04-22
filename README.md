@@ -193,4 +193,5 @@ Now we are all set with a new, modified Fedora Server ARM image for Raspberry Pi
 A lot of research went into learning how to do the things in this article. Two of the most helpful sources for learning how to customize disk images and work with non-native architectures are included below, and were extremely helpful in rounding the corner from "I have no idea what I'm doing" to "Ok, I can do this!"
 
 REF: [https://www.linux.com/news/how-modify-raw-disk-image-your-custom-linux-distro/](https://www.linux.com/news/how-modify-raw-disk-image-your-custom-linux-distro/)
+
 REF: [https://wiki.mageia.org/en/Using_DNF#Setting_up_a_container_for_a_non-native_architecture](https://wiki.mageia.org/en/Using_DNF#Setting_up_a_container_for_a_non-native_architectur)
