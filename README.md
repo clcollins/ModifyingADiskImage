@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # Modifying a Disk Image for use with a Raspberry Pi or other single board computers
 
 Building a homelab can be a fun way to both entertain yourself and to learn new concepts and technologies, and with the explosion in popularity of the Raspberry Pi and other single board computers (SBCs), it is easier than ever to build a multi-computer lab right from the comfort of your own home. Creating your own "Private Cloud at Home"-lab is a great way to get exposure to cloud-native technologies for considerably cheaper than trying to replicate the same setup with a major cloud provider.
